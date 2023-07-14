@@ -23,4 +23,7 @@ Basta instalar as dependências com o pip:
 ```bash
   pip install -r requirements.txt  
 ```
-    
+
+## Execução
+
+Para executar a aplicação, basta rodar o arquivo _runner.py_
