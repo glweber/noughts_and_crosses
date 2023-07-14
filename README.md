@@ -8,6 +8,11 @@ O jogo da velha foi implementado de acordo com as exigência da atividade, onde 
 
 ## Demonstração
 
+![Menu do Jogo](img/menu.png)
+
+![Empate](img/tie.png)
+
+![Computador](img/think.png)
 
 
 
