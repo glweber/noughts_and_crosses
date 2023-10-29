@@ -1,29 +1,28 @@
 
 # Noughts and Crosses
 
-Código construído para a atividade "Tic-Tac-Toe" | CS50’s Introduction to Artificial Intelligence with Python.
+Code developed for the 'Tic-Tac-Toe' Activity | CS50’s Introduction to Artificial Intelligence with Python.
 
-O jogo da velha foi implementado de acordo com as exigência da atividade, onde opera sobre o jogo, o algoritmo Min-Max. A implementação também contém a Poda Alfa-beta.
+The Noughts and Crosses game has been implemented in accordance with the activity's requirements, incorporating the Min-Max algorithm. The implementation also includes the Alpha-Beta Pruning.
 
+## Demonstration
 
-## Demonstração
+![Game Menu](img/menu.png)
 
-![Menu do Jogo](img/menu.png)
+![Tie](img/tie.png)
 
-![Empate](img/tie.png)
-
-![Computador](img/think.png)
-
+![AI](img/think.png)
 
 
-## Instalação
 
-Basta instalar as dependências com o pip:
+## Installation
+
+"Simply install the dependencies using pip:"
 
 ```bash
-  pip install -r requirements.txt  
+  pip install -r requirements.txt
 ```
 
-## Execução
+## Execution
 
-Para executar a aplicação, basta rodar o arquivo _runner.py_
+To run the application, simply execute the ```runner.py``` file.
