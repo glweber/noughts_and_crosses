@@ -17,7 +17,7 @@ The Noughts and Crosses game has been implemented in accordance with the activit
 
 ## Installation
 
-"Simply install the dependencies using pip:"
+Simply install the dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
