@@ -17,7 +17,7 @@ The Noughts and Crosses game has been implemented in accordance with the activit
 
 <p align="center">
   <img src="img/think.png"/>
-</p?
+</p>
 
 
 
