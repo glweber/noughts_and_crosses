@@ -7,11 +7,17 @@ The Noughts and Crosses game has been implemented in accordance with the activit
 
 ## Demonstration
 
-![Game Menu](img/menu.png)
+<p align="center">
+  <img src="img/menu.png"/>
+</p?
 
-![Tie](img/tie.png)
+<p align="center">
+  <img src="img/tie.png"/>
+</p?
 
-![AI](img/think.png)
+<p align="center">
+  <img src="img/think.png"/>
+</p?
 
 
 
